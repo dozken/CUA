@@ -36,7 +36,7 @@
     "@expo/prebuild-config": "6.0.0"
   },
   "dependencies": {
-    "@babel/runtime": "^7.18.9",
+    "@babel/runtime": "^7.22.5",
     "dotenv": "^16.0.3",
     "dotenv-cli": "^6.0.0"
   },
